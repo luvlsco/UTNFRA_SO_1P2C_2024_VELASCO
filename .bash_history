@@ -229,3 +229,143 @@ cat $HOME/.bash_history
 cd repogit/
 UTNFRA_SO_1P2C_2024_VELASCO/
 pwd
+cp $HOME/.bash_history /home/lucas/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+cd UTNFRA_SO_1P2C_2024_VELASCO/
+git status
+git add .bash_history 
+git commit -m "add: agregado historial de comandos"
+git push
+ls
+git status
+pwd
+ls
+ls .a
+ls -a
+cd RTA_ARCHIVOS_Examen_20241009/
+ls
+ls -a
+cd ..
+cd RTA_SCRIPT_Examen_20241009/
+ls
+man mkdir
+man sudo
+ls .a
+ls -a
+ls -l
+mkdir -p /Examenes-UTN/
+sudo mkdir -p /Examenes-UTN/
+ls -l
+ls -a
+cd $HOME
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_VELASCO/
+ls -l
+cd RTA_ARCHIVOS_Examen_20241009/
+ls -l
+cd ..
+cd RTA_SCRIPT_Examen_20241009/
+ls -l
+sudo mkdir -p /Examenes-UTN/
+ls -l
+cd $HOME
+ls
+cd ..
+ls -a
+cd ..
+ls -a
+cd Examenes-UTN
+ls -a
+sudo rm Examenes-UTN
+cd ..
+sudo rm Examenes-UTN
+sudo rm -rf Examenes-UTN
+ls -l
+ls
+sudo mkdir -p /Examenes-UTN/{alumno_{1..3}
+ls
+cd Examenes-UTN/
+cd ..
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+tree Examenes-UTN/
+sudo mkdir -p /Examenes-UTN/alumno_{1..3}
+tree Examenes-UTN/
+sudo mkdir -p /Examenes-UTN/alumno_{1..3},test
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+sudo mkdir -p /Examenes-UTN/alumno_{1..3}/test
+tree Examenes-UTN/
+sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3}
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3}/profesores
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+tree Examenes-UTN/
+sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3},profesores
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+sudo mkdir -p /Examenes-UTN/{alumno_{1..3}/parcial_{1..3},profesores}
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+ls
+cd $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+ls
+git status
+cd RTA_SCRIPT_Examen_20241009/
+ls}
+ls
+vim Punto_A.sh 
+cat Punto_A.sh 
+bash Punto_A.sh 
+cd $HOME | cd ..
+cd $HOME
+ls
+pwd
+ls
+cd ..
+pwd
+ls
+cd ..
+ls
+pwd
+cd /
+tree Examenes-UTN/
+sudo rm -rf Examenes-UTN
+bash $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_SCRIPT_Examen_20241009/Punto_A.sh
+tree Examenes-UTN/
+cd $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+ls
+git status
+git add RTA_SCRIPT_Examen_20241009/Punto_A.sh
+git status
+git commit -m "feat(script): agregada la solución a la primera consigna"
+git push
+git status
+history -a
+ls
+cd ..
+ñs
+ls
+cd UTNFRA_SO_1P2C_2024_VELASCO/
+ls
+cd RTA_SCRIPT_Examen_20241009/
+ls
+cd ..
+cd RTA_ARCHIVOS_Examen_20241009/
+ls
+cd ..
+ls
+cd ..
+ls
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_VELASCO/
+ls
+git pull
+ls
+ls -a
