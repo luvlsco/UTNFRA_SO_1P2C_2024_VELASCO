@@ -868,3 +868,31 @@ git commit -m "docs: consigna B resuelta y arreglada"
 git push
 history -a
 cat $HOME/.bash_history 
+cp $HOME/.bash_history /home/lucas/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+git status
+cd ..
+git status
+git add .bash_history 
+git commit -m "docs: agregado historial de comandos (consigna B resuelta)"
+git push
+sudo vim /etc/fstab 
+sudo fdisk /dev/sdc
+cat -n /etc/fstab 
+sudo vim /etc/fstab 
+lsblk
+sudo umount /dev/sdc{5..14}
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh
+ls
+cd RTA_SCRIPT_Examen_20241009/
+vim Punto_B.sh
+bash Punto_B.sh 
+lsblk
+df -h
+git status
+git add Punto_B.sh 
+git commit -m "feat(script): agregado el forzar MBR, si se usa GPT este script no funciona"
+git push
+history -a
+cat $HOME/.bash_history 
