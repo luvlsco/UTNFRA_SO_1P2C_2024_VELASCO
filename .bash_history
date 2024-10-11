@@ -715,3 +715,156 @@ ls
 ls -a
 git_status
 git status
+cp $HOME/.bash_history $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+ls
+ls -a
+git status
+git add .bash_history 
+git commit -m "docs: agregado comandos del punto b (progreso)"
+git push
+shutdown
+shutdown -F
+lsblk
+sudo fdisk /dev/sdc
+ls -l
+ls -a
+cd repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_SCRIPT_Examen_20241009/
+vim Punto_B.sh 
+bash Punto_B.sh 
+lsblk
+tree /Examenes-UTN/
+sudo ls -l
+sudo ls -l /mnt/
+sudo ls -l /mnt
+sudo ls -l /mnt/
+sudo ls -l mnt/
+-df h
+df -h
+lsblk
+df -h
+sudo
+lsblk
+man mount
+cat /etc/fstab 
+cat -n /etc/fstab 
+lsblk
+echo "/dev/sdc5 /Examenes-UTN/alumno_1/parcial_1 ext4 defaults 0 0" | sudo tee -a /etc/fstab
+cat -n /etc/fstab 
+lsblk
+cat /Examenes-UTN/
+tree /Examenes-UTN/
+lsblk
+cat -n /etc/fstab 
+blkid
+vim Punto_B.sh 
+cat -n /etc/fstab 
+sudo vim /etc/fstab 
+cat -n /etc/fstab 
+vim Punto_B.sh 
+lsblk
+df -h
+vim Punto_B.sh 
+sudo fdisk -l
+sudo fdisk /dev/sdc
+lsblk
+sudo umount /dev/sdc5
+lsblk
+sudo umount /dev/sdc6
+sudo umount /dev/sdc7
+sudo umount /dev/sdc8
+sudo umount /dev/sdc9
+sudo umount /dev/sdc10
+sudo umount /dev/sdc11
+sudo umount /dev/sdc12
+sudo umount /dev/sdc13
+sudo umount /dev/sdc14
+lsblk
+tree /Examenes-UTN/
+sudo fdisk /dev/sdc
+ls
+lsblk
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+systemctl daemon-reload
+tree /Examenes-UTN/
+lsblk
+sudo umount /dev/sdc5
+sudo umount /dev/sdc{6..14}
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+df -h
+vim Punto_B.sh 
+sudo umount /dev/sdc{5..14}
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsblk
+vim Punto_B.sh
+git status
+git add Punto_B.sh
+git commit -m "feat(script): resolución de la consigna B (bugueado)"
+git push
+fdisk -l
+sudo fdisk -l
+lsblk
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+lsblk
+cat -n /etc/fstab 
+vim /etc/fstab 
+sudo vim /etc/fstab
+cat -n /etc/fstab 
+lsblk
+sudo fdisk -l
+ls
+cd 1
+ls -a
+ls -a -l
+cd '!'
+cd !
+cat !
+rm !
+ls
+bash Punto_B.sh
+sudo fdisk /etc/fstab
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh
+sudo fdisk /dev/sdc
+cat -n Punto_B.sh 
+sudo fdisk /dev/sdc
+sudo fdisk
+sudo fdisk o
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh
+sudo fdisk /dev/sdc
+lsblk
+cat -n /etc/fstab 
+sudo vim /etc/fstab 
+cat -n /etc/fstab 
+vim Punto_B.sh
+lsblk
+bash Punto_B.sh
+lsblk
+cat -n /etc/fstab 
+git status
+git add Punto_B.sh 
+git commit -m "docs: consigna B resuelta y arreglada"
+git push
+history -a
+cat $HOME/.bash_history 
