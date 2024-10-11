@@ -369,3 +369,349 @@ ls
 git pull
 ls
 ls -a
+cp $HOME/.bash_history $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+git status
+git add .bash_history 
+git commit -m "docs: agregado historial de la primera consigna"
+git push
+exit
+fastfetch 
+pwd
+ls
+cd repogit/
+ls
+cd UTNFRA_SO_1P2C_2024_VELASCO/
+ls
+cd RTA_SCRIPT_Examen_20241009/
+LS
+ls
+vvim Punto_A.sh 
+vim Punto_A.sh 
+git status
+clear
+git add Punto_A.sh 
+git status
+git commit -m "feat(script): agregado espacio"
+git push
+lx
+ls
+cat Punto_B.sh 
+man cat
+cat -n Punto_A.sh 
+cat  Punto_A.sh 
+tree $HOME/
+tree /$HOME/
+tree ./$HOME/
+cd $HOME/
+ls
+cd ..
+ls
+cd ..
+ls
+cd $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_SCRIPT_Examen_20241009/
+ls
+sudo fdisk -l
+sudo # fdisk -l
+sudo fdisk -l
+sudo fdisk /dev/sdc
+neofetch
+fastfetch 
+sudo fdisk -l
+sudo fdisk /dev/sdc
+sudo fdisk -l
+sudo /dev/sdc
+sudo /dev/sdc/ -l
+sudo /dev/sdc/
+sudo fdisk  /dev/sdc/ -l
+sudo fdisk  /dev/sdc -l
+sudo fdisk  /dev/sdc
+sudo fdisk
+man fdisk
+sudo fdisk --list /dev/sdc/
+sudo fdisk --list /dev/sdc
+sudo fdisk /dev/sdc
+man fdisk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk -l /dev/sdc
+sudo fdisk /dev/sdc
+lsblk
+ls
+cd repogit
+ls
+cd UTNFRA_SO_1P2C_2024_VELASCO/
+ls
+cd RTA_SCRIPT_Examen_20241009/
+ls
+vim Punto_B.sh 
+sudo fdisk /dev/sdc/
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+ls
+lsblk
+ls
+sudo Punto_B.sh
+bash Punto_B.sh 
+vim Punto_B.sh 
+ls
+vim Punto_B.sh 
+bash Punto_B.sh 
+ls
+man ls
+ls
+vim Punto_B.sh 
+ls
+lsblk
+sudo fdisk /dev/sdc/
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+sudo fdisk /dev/sdc
+ls
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+ls
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+d
+n
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+vim Punto_B.sh
+cat -l Punto_B.sh 
+MAN CAT
+man cat
+cat -n Punto_B.sh 
+lsblk
+bash Punto_B.sh
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+cat -n Punto_B.sh 
+vim Punto_B.sh
+lsblk
+bash Punto_B.sh
+lsblk
+sudo fdisk /dev/sdc
+bash Punto_B.sh
+cat -n Punto_B.sh 
+vim Punto_B.sh
+ls
+cat -n Punto_B.sh 
+blsk
+lsblk
+bash Punto_B.sh
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh
+cat -n Punto_B.sh 
+lsblk
+bash Punto_B.sh
+lsblk
+sudo fdisk /dev/sdc
+q
+lsblk
+vim Punto_B.sh
+lsblk
+bash Punto_B.sh
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+echo e
+echo "EE"
+echo grep
+man grep
+echo "e"
+blsk
+lsblk
+echo e=(blsk)
+echo e=$(blsk)
+echo e=$(lsblk)
+lsblk
+man lsblk
+lsblk -m
+man lsblk
+lsblk -m
+lsblk
+lsblk -s
+lsblk
+lsblk -o
+lsblk -o -p
+lsblk -b -o
+lsblk -b -o SIZE
+lsblk -b -o NAME,SIZE
+echo e=$(lsblk -b -o NAME,SIZE | grep "10737418240")
+echo e=$(lsblk -b -o NAME,SIZE | grep "10737418240" | awk {print $2})
+echo e=$(lsblk -b -o NAME,SIZE | grep "10737418240" | awk "{print $2}")
+echo e=$(lsblk -b -o NAME,SIZE | grep "10737418240" | awk '{print $2}')
+echo e=$(lsblk -b -o NAME,SIZE | grep "10737418240" | awk '{print $1}')
+sudo fdisk -l
+echo e=$(sudo fdisk -l | grep "10 GiB" | awk '{print $1}')
+echo e=$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}')
+man awk
+echo e=$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -f ':' '{print $1}')
+echo e=$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}')
+echo disco$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -f ':' '{print $1}')
+echo e=$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}')
+echo disk=$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}')
+echo DISK=$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}')
+ls
+vim Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk -l
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+cat -n Punto_B.sh 
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+lsblk
+bash Punto_B.sh 
+sudo fdisk /dev/sdc
+lsblk
+vim Punto_B.sh 
+bash Punto_B.sh 
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsblk
+vim Punto_B.sh 
+sudo fdisk /dev/sdc
+ls
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+d
+sudo fdisk /dev/sdc
+lsblk
+sudo fdisk -l /dev/sdc
+lsblk
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsbkr
+lsblk
+sudo mkfs -t ext4 /dev/sdc5
+sudo mkfs -t ext4 /dev/sdc1
+sudo mkfs -t ext4 /dev/sdc6
+sudo mkfs -t ext4 /dev/sdc7
+ls
+lsblk
+sudo fdisk -l /dev/sdc
+sudo fdisk /dev/sdc
+ls
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+man mkfs
+man sudo
+sudo fdisk -l
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+lsblk
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+vim Punto_B.sh 
+bash Punto_B.sh 
+lsblk
+sudo fdisk /dev/sdc
+bash Punto_B.sh 
+sudo mkfs -t ext4 -F /dev/sdc1
+cd..
+ls
+cd ..
+ls
+cd RTA_ARCHIVOS_Examen_20241009/
+ls
+cd ..
+cd RTA_SCRIPT_Examen_20241009/
+ls
+bash Punto_A.sh
+tree /Examenes-UTN/
+sudo fdisk /dev/sdc
+ls
+vim Punto_B.sh
+bash Punto_B.sh 
+cat /Examenes-UTN/
+tree /Examenes-UTN/
+echo "${DISCO}5 /Examenes-UTN/alumno_1/parcial_1 ext4 defaults 0 0"
+history -a
+cat $HOME/lucas
+cat $HOME/.bash_history 
+cat $HOME/lucas
+cd $HOME/
+ls -a
+cat -n .bash_history 
+ls -a
+cd repogit
+ls
+cd UTNFRA_SO_1P2C_2024_VELASCO/
+ks
+ls
+ls -a
+git_status
+git status
