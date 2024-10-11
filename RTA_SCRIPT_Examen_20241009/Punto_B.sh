@@ -4,6 +4,10 @@ DISCO=$(sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1
 
 sudo fdisk $DISCO << OEF
 o
+w
+OEF
+
+sudo fdisk $DISCO << OEF
 n
 e
 1
