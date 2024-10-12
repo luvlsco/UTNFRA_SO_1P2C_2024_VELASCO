@@ -1151,3 +1151,62 @@ git add Punto_D.sh
 git commit -m "feat(script): consigna D completada"
 git push
 history -a
+cp $HOME/.bash_history $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+git status
+cd ..
+git add .bash_history 
+git status
+git commit -m "docs: agregado historial de comandos para la consigna D"
+git push
+/proc/meminfo
+sudo /proc/meminfo
+cat -m /proc/meminfo
+cat -n /proc/meminfo
+man grep
+grep -i "memtotal"
+grep -i "memtotal" /proc/meminfo 
+grep MemTotal  /proc/meminfo 
+grep MemTotal /proc/meminfo 
+ls
+cd RTA_ARCHIVOS_Examen_20241009/
+ls
+grep MemTotal /proc/meminfo 
+cd ..
+cat $HOME
+asdksajdskafafskaj
+grep MemTotal /proc/meminfo 
+cd RTA_ARCHIVOS_Examen_20241009/
+pwd
+grep MemTotal /proc/meminfo 
+cat $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/
+cat $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+ls
+cd ..
+cd RTA_SCRIPT_Examen_20241009/
+ls
+vim Punto_E.sh 
+bash Punto_E.sh 
+ls
+cat $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+cat -n $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+dmidecode -t chassis
+sudo dmidecode -t chassis
+sudo grep "Chassis"  dmidecode -t chassis
+sudo grep "Chassis" dmidecode -t chassis
+sudo dmidecode -t chassis
+sudo dmidecode -t chassis | grep "Chassis"
+vim Punto_E.sh 
+sudo dmidecode -t chassis
+sudo dmidecode -t chassis | grep "Manufacturer"
+vim Punto_E.sh 
+cat -n $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+rm $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+cat -n $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+bash Punto_E.sh 
+cat -n $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+bash Punto_E.sh 
+cat -n $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_ARCHIVOS_Examen_20241009/Filtro_Basico.txt
+git status
+git add Punto_E.sh 
+git commit -m "feat(script): consigna E completada"
+history -a
