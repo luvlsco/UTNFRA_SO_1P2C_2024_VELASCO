@@ -1,0 +1,4 @@
+Mi IP Publica es: 190.189.145.97
+Mi usuario es: lucas
+El Hash de mi Usuario es: $6$iupNyXtyFzjqCc4S$8hXJqnXBNlFsWwM3G1Nd/lxu4nB20F6ExsM9eXFnl/bAacriSuMdQjDHEK1sm3HImOkZ3iLACmunSIfI/aP7e/
+La URL de mi repositorio es: git@github.com:luvlsco/UTNFRA_SO_1P2C_2024_VELASCO.git
