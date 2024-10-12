@@ -993,3 +993,161 @@ git commit -m "feat(script): consigna C completada"
 git push
 history -a
 cat $HOME/.bash_history 
+cp $HOME/.bash_history $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+git status
+cd ..
+git status
+git add .bash_history 
+git commit -m "docs: agregado historial de comandos para la consigna C"
+git push
+asd
+cd RTA_SCRIPT_Examen_20241009/
+vim Punto_A.sh 
+cat -n Punto_A.sh 
+tree /Examenes-UTN/
+tree /Examenes-UTN/alumno_{1..3
+tree /Examenes-UTN/alumno_{1..3}
+tree /Examenes-UTN/
+sudo tree /Examenes-UTN/
+cat -n Punto_A.sh 
+vim Punto_C.sh 
+vim Punto_D.sh 
+ls -l $HOME
+sudo tree repogit/
+sudo tree /repogit/
+sudo tree $HOME/repogit/
+bash Punto_D.sh 
+clear
+vim Punto_D.sh 
+ls
+bash Punto_D.sh
+vim Punto_D.sh 
+sudo tree $HOME/repogit/ --noreport | pr -T -s' ' -w 80 --column 4
+aasdd
+cat -n Punto_A.sh 
+sudo mkdir -p /Estructura_Asimetrica/{correo,clientes}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+ls /
+rm /Estructura_Asimetrica/
+rm /Estructura_Asimetrica
+rmdir /Estructura_Asimetrica
+sudo rmdir /Estructura_Asimetrica
+sudo rmdir /Estructura_Asimetrica/
+sudo rm /Estructura_Asimetrica/
+sudo rmdir -rf /Estructura_Asimetrica/
+sudo rm -rf /Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+cat -n Punto_A.sh 
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo{cartas_1..100},clientes}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo{cartas_1..100},clientes}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/cartas_{1..100}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/cartas_{1..100}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/cartas_{1..100},carteros{1..10}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/{cartas_{1..100},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/{cartas_{1..100},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/{cartas_{1..100},carteros{1..10}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/{cartas_{1..100},carteros{1..10}}/cartas_{1..100}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas_{1..100},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/correo/cartas_{1..100},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/correo/cartas_{1..100},carteros{1..10}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/correo/cartas_{1..100},carteros{1..10}
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas_{1..100},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}/{cartas_{1..100},carteros{1..10}}/cartas_{1..100}
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/{cartas_1..10},carteros{1..10},clientes}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas_{1..10},carteros{1..10},clientes}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/{cartas_{1..10},carteros{1..10}}
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}}/{cartas_{1..10},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}/{cartas_{1..10},carteros{1..10}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}/{cartas_{1..10},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas{1..10},carteros{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas{1..3},carteros{1..3}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas{1..3}/carteros{1..3}}
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas{1..3}/carteros{1..3}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/cartas{1..3}carteros{1..3}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}/cartas{1..5}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}/cartas{1..5},correo/carteros_{1..3}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo,clientes}/cartas{1..5},correo/carteros_{1..3}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{{correo,clientes}/cartas{1..5},correo/carteros_{1..3}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{{correo,clientes}/cartas_{1..100},correo/carteros_{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/{cartas_{1..10}},clientes/cartas_1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/{cartas_{1..10}},clientes/cartas_{1..10}}
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/{cartas_{1..10}},clientes/cartas_{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/{cartas_{1..10},carteros{1..10}},clientes/cartas_{1..10}}
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/{cartas_{1..10},carteros{1..10}},clientes/cartas_{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{correo/{cartas_{1..100},carteros{1..10}},clientes/cartas_{1..100}}
+sudo rm -rf $HOME/Estructura_Asimetrica/
+sudo mkdir -p $HOME/Estructura_Asimetrica/{{correo,clientes}/cartas_{1..100},correo/carteros_{1..10}}
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+vim Punto_D.sh 
+bash Punto_D.sh 
+sudo tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+sudo rm -rf $HOME/Estructura_Asimetrica/
+git status
+git add Punto_D.sh 
+git commit -m "feat(script): consigna D completada"
+git push
+history -a
