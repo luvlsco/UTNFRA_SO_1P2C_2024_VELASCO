@@ -896,3 +896,100 @@ git commit -m "feat(script): agregado el forzar MBR, si se usa GPT este script n
 git push
 history -a
 cat $HOME/.bash_history 
+cp $HOME/.bash_history /home/lucas/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+cd ..
+ls
+git status
+git add .bash_history 
+git commit -m "docs: agregado historial de comandos para la consigna B (commit final para la consigna B)"
+git push
+man group
+man groupadd
+whoami 
+id
+w
+last
+w
+grep lucas /etc/passwd
+grep lucas /etc/shadow
+sudo grep lucas /etc/shadow
+sudo groupadd
+sudo groupadd p1c2_2024_gAlumno
+w
+id
+lsat
+last
+id
+id lucas
+groups
+groups lucas
+sudo groupadd p1c2_2024_gAlumno
+groups lucas
+sudo groupadd p1c2_2024_gAlumno
+cat /etc/group
+sudo groupdel p1c2_2024_gAlumno 
+cat -n /etc/group
+ls
+cd RTA_SCRIPT_Examen_20241009/
+ls
+vim Punto_C.sh 
+bash Punto_C.sh 
+cat -n /etc/group
+grep lucas /etc/shadow
+sudo grep lucas /etc/shadow
+cat /etc/passwd
+echo "$(sudo grep pepe /etc/shadow | awk -F ':' '{print $2}')"
+echo "$(sudo grep lucas /etc/shadow | awk -F ':' '{print $2}')"
+cat -n /etc/group
+cat -n /etc/passwd
+cat -n /etc/group
+cat -n /etc/groups
+cat -n /etc/group
+cat -n /etc/passwd
+cat -n /etc/group
+cat -n /etc/passwd
+echo $USER
+echo "$(sudo grep $USER /etc/shadow | awk -F ':' '{print $2}')"
+echo "$(sudo grep "$USER" /etc/shadow | awk -F ':' '{print $2}')"
+vim Punto_B.sh 
+vim Punto_C.sh 
+cat -n /etc/group
+vim Punto_C.sh 
+man su
+cat -n /etc/group
+vim Punto_C.sh 
+tree /Examenes-UTN/
+vim Punto_C.sh 
+tree /Examenes-UTN/
+man chmod
+man chown
+cat -n /etc/passwd
+cat -n /etc/group
+man groupdel
+sudo groupdel p1c2_2024_gAlumno
+sudo groupdel p1c2_2024_gProfesores 
+lsblk
+bash Punto_C.sh 
+vim Punto_C.sh 
+cat -n /etc/passwd
+bash Punto_C.sh 
+vim Punto_C.sh 
+bash Punto_C.sh 
+vim Punto_C.sh 
+sudo su p1c2_2024_A1
+bash Punto_C.sh 
+vim Punto_C.sh 
+bash Punto_C.sh 
+cat -n /etc/passwd
+cat -n /etc/groups
+git status
+cd ..
+git status
+cd RTA_SCRIPT_Examen_20241009/
+git status
+git add Punto_C.sh 
+git status
+git commit -m "feat(script): consigna C completada"
+git push
+history -a
+cat $HOME/.bash_history 
