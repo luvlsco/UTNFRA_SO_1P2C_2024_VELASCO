@@ -1210,3 +1210,118 @@ git status
 git add Punto_E.sh 
 git commit -m "feat(script): consigna E completada"
 history -a
+cp $HOME/.bash_history $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+git status
+cd ..
+git status
+git add .bash_history
+git commit -m "docs: agregado historial de comandos para la consigna E"
+git push
+curl -s ifconfig.me
+sudo curl -s ifconfig.me
+sudo apt install curl
+sudo curl -s ifconfig.me
+curl -s ifconfig.me
+curl -s ifconfig.me | awk '{print$1}'
+curl -s ifconfig.me | awk '{print $1}'
+cd RTA_SCRIPT_Examen_20241009/
+vim Punto_C.sh 
+git status
+git add Punto_C.sh 
+git commit -m "feat(script): agregado /bin/bash"
+git status
+git push
+cd ..
+cd RTA_ARCHIVOS_Examen_20241009/
+git status
+ls
+cd ..
+git status
+git add RTA_ARCHIVOS_Examen_20241009/.
+git status
+git commit -m "feat: agregada carpeta de archivos y filtro_basico.txt"
+git push
+git status
+curl -s ifconfig.me | awk '{print $1}'
+cd RTA_SCRIPT_Examen_20241009/
+ls -a
+ls
+ls -l -n
+vim Punto_F.sh 
+cat Punto_E.sh 
+curl -s ifconfig.me | awk '{print $1}'
+echo "M" curl -s ifconfig.me | awk '{print $1}'
+curl -s ifconfig.me | awk '{print $1}'
+cat Punto_D.sh 
+cat Punto_A.sh 
+cat Punto_C.sh 
+echo "test" $(curl -s ifconfig.me | awk '{print $1}')
+echo "Mi IP Publica es" $(curl -s ifconfig.me | awk '{print $1}')
+echo "Mi IP Publica es:" $(curl -s ifconfig.me | awk '{print $1}')
+cat Punto_E.sh 
+vim Punto_F.sh 
+echo "Mi usuario es" $(whoami)
+echo "Mi usuario es:" $(whoami)
+cat Punto_E.sh 
+vim Punto_F.sh 
+cat /etc/shadow
+sudo cat /etc/shadow
+sudo grep "$USER" /etc/shadow
+sudo grep "$USER" /etc/shadow | awk '{print $1}'
+cat Punto_E.sh 
+cat Punto_D.sh 
+cat Punto_F.sh 
+cat Punto_C.sh 
+sudo grep "$USER" /etc/shadow | awk -F ':' '{print $1}'
+sudo grep "$USER" /etc/shadow | awk -F ':' '{print $2}'
+cat Punto_F.sh 
+echo "test" $(sudo grep "$USER" /etc/shadow | awk -F ':' '{print $2}')
+echo "El Hash de mi Usuario es:" $(sudo grep "$USER" /etc/shadow | awk -F ':' '{print $2}')
+sudo grep "$USER" /etc/shadow | awk '{print $1}'
+echo "El Hash de mi Usuario es:" $(sudo grep "$USER" /etc/shadow | awk -F ':' '{print $2}')
+cat Punto_F.sh 
+vim Punto_F.sh 
+git remote get-url origin
+sudo git remote get-url origin
+echo "El Hash de mi Usuario es:" $(sudo git remote get-url origin)
+echo "La URL de mi repositorio es:" $(sudo git remote get-url origin)
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+git remote get-url origin
+cd repogit/
+git remote get-url origin
+cd $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/
+git remote get-url origin
+ls -a -l
+cd $HOME/repogit/UTNFRA_SO_1P2C_2024_VELASCO/RTA_SCRIPT_Examen_20241009/
+vim Punto_F.sh 
+git remote get-url origin
+echo "La URL de mi repositorio es:" $(sudo git remote get-url origin)
+vim Punto_F.sh 
+bash Punto_F.sh 
+git status
+cat -n Punto_F.sh 
+ls
+cd ..
+ls
+cat RTA_ARCHIVOS_Examen_20241009/Filtro_Avanzado.txt 
+git status
+cd RTA_SCRIPT_Examen_20241009/
+git status
+ls
+git add Punto_F.sh 
+git commit -m "feat(script): consigna F completada"
+git push
+git status
+cd ..
+git status
+git add RTA_ARCHIVOS_Examen_20241009/.
+git status
+git commit -m "feat: agregada carpeta de archivos y filtro_avanzado.txt"
+git push
+history -a
